@@ -19,7 +19,7 @@ body {
   min-width: 100%;
   min-height: 100%;
   z-index: -1;
-  opacity: 0.3; /* Turunkan opacity menjadi 50% */
+  opacity: 0.8; /* Turunkan opacity menjadi 30% */
 }
 
 
